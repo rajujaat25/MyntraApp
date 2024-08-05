@@ -1,5 +1,5 @@
 # STEP 1A: Setting up AWS EC2 Instance and IAM Role
-1. **Sign in to the AWS Management Console: **Access the AWS Management Console using your credentials
+1. **Sign in to the AWS Management Console:** Access the AWS Management Console using your credentials
 2. **Navigate to the EC2 Dashboard:** Click on the “Services” menu at the top of the page and select “EC2” under the “Compute” section. This will take you to the EC2 Dashboard.
 3. **Launch Instance:** Click on the “Instances” link on the left sidebar and then click the “Launch Instance” button.
 4. **Choose an Amazon Machine Image (AMI):** In the “Step 1: Choose an Amazon Machine Image (AMI)” section:
