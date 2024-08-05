@@ -127,6 +127,8 @@ Install below plugins
 
 12 → Kubernetes Pipeline DevOps steps
 
+13 →   Pipeline: Stage View
+
 #### Configure Java and Nodejs in Global Tool Configuration
 ** Configure Java and Node.js in Global Tool Configuration
   To configure Java (JDK) and Node.js in Jenkins, follow these steps:**
