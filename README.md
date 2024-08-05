@@ -1,3 +1,4 @@
+# DevOps Project: Automated CI/CD Pipeline Setup with Jenkins, Docker, Terraform, and Kubernetes on AWS EC2
 # STEP 1A: Setting up AWS EC2 Instance and IAM Role
 1. **Sign in to the AWS Management Console: **Access the AWS Management Console using your credentials
 2. **Navigate to the EC2 Dashboard:** Click on the “Services” menu at the top of the page and select “EC2” under the “Compute” section. This will take you to the EC2 Dashboard.
