@@ -340,3 +340,4 @@ pipeline{
 
 ```
 - Apply and Save and click on Build
+- Here it will generate load balancer and copy the DNS and paste it into your web browser to access the application:
