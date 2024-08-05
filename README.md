@@ -9,7 +9,7 @@ Click on “Select” to proceed.
 5. **Choose an Instance Type:** In the “Step 2: Choose an Instance Type” section:
 Scroll through the instance types and select “t2.large” from the list.
 Click on “Next: Configure Instance Details” at the bottom.
-6. **Configure Instance Details: **In the “Step 3: Configure Instance Details” section, you can leave most settings as default for now. However, you can configure settings like the network, subnet, IAM role, etc., according to your requirements.
+6. **Configure Instance Details:** In the “Step 3: Configure Instance Details” section, you can leave most settings as default for now. However, you can configure settings like the network, subnet, IAM role, etc., according to your requirements.
 Once done, click on “Next: Add Storage.”
 7. **Add Storage:** In the “Step 4: Add Storage” section:
 You can set the size of the root volume (usually /dev/sda1) to 30 GB by specifying the desired size in the “Size (GiB)” field.
